@@ -1,4 +1,2 @@
--
-=
+ASP.NET开源内容管理系统(使用jQuery EasyUI框架)
 
-基于jQuery EasyUI的开源ASP.NET内容管理系统

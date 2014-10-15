@@ -1,2 +1,2 @@
-ASP.NET开源内容管理系统(使用jQuery EasyUI框架)
+Web开发使用到的代码库封装
 
